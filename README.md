@@ -5,11 +5,15 @@ Je suis statisticien-Data Analyst- Data Scientist, passionné par l’exploratio
 - L’analyse statistique et la modélisation des données financières
 - La gestion des bases de données (SQL, NoSQL, PostgreSQL)
 - Les plateformes cloud pour l’ingénierie des données
+
+
   🚀 Ce que j’apprends actuellement
 - SQL avancé et PostgreSQL pour l’analyse de données
 - Bases NoSQL comme MongoDB
 - FastAPI & Docker pour des workflows de données évolutifs
 - Techniques de scoring de crédit pour les applications financières
+
+
 🤝 Projets sur lesquels je souhaite collaborer
 - Création d’applications interactives de données avec Streamlit
 - Développement de pipelines ETL efficaces pour les données financières
