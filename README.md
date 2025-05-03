@@ -18,8 +18,11 @@ Je suis statisticien-Data Analyst- Data Scientist, passionné par l’exploratio
 - Création d’applications interactives de données avec Streamlit
 - Développement de pipelines ETL efficaces pour les données financières
 - Amélioration des techniques de modélisation prédictive en finance
+
 📫 Comment me contacter
 N’hésite pas à me joindre via GitHub ou LinkedIn pour échanger et collaborer !
+
+
 ⚡ Fun Fact
 J’aime faire des liens entre la science des données et les perspectives du monde réel, et j’explore les traditions culturelles en parallèle des défis de codage
 
