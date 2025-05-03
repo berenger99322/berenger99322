@@ -1,3 +1,7 @@
+
+![data_1](https://github.com/user-attachments/assets/c739c733-c0a9-4c97-a01b-70c1628c82f7)
+
+
 👋 Bonjour, je suis Hie Berenger !
 Je suis statisticien-Data Analyst- Data Scientist, passionné par l’exploration des données et la création de solutions intelligentes.
 🔍 Ce qui m’intéresse
